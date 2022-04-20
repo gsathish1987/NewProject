@@ -4,8 +4,8 @@ public class TestProject {
 
 	public static void main(String[] args) {
 	
-		System.out.println("testing completed");
-		System.out.println("Kumar's Code");
+		System.out.println("test 6");
+		System.out.println("test 7");
 		
 		
 	}
